@@ -15,8 +15,11 @@
     "@vue/babel-preset-app": "^4.5.15",
     "@vue/cli-plugin-unit-jest": "~4.5.0",
     "@vue/test-utils": "^2.0.0-0",
+    "autoprefixer": "^10.4.2",
     "babel-core": "^7.0.0-bridge.0",
     "jest": "^24.9.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15",
     "typescript": "~3.9.3",
     "vite": "^2.7.2",
     "vue-jest": "^5.0.0-0"
